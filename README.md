@@ -9,7 +9,7 @@ With the increasing demand for vehicles, there’s been a drastic hike in road a
 The app also has an emergency contact section for the user to fill their emergency contact details in case of unforeseen circumstances.</p> 
 
 ## Getting Started ##
- __Note:__ Make sure your Flutter environment is setup. If not please read <a href="https://flutter.dev/docs">Flutter Documentation</a>.
+ __Note:__ Make sure your Flutter environment is setup. If not please read <a href="https://flutter.dev/docs" target="_blank">Flutter Documentation</a>.
 
 __Installation__
 In the command terminal, run the following commands:
